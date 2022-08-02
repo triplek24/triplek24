@@ -1,16 +1,16 @@
-<h1 align="center">Hi , I'm MOULISHWARAN</h1>
+<h1 align="center">Hi , I'm Karthikeyan</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 <img align="right" alt="Coadig" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moulishwaran&label=Profile%20views&color=0e75b6&style=flat" alt="moulishwaran" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=triplek24&label=Profile%20views&color=0e75b6&style=flat" alt="Karthikeyan" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACTJS NODEJS EXPRESSJS**
+- 💬 Ask me about **HTML CSS JAVASCRIPT REACTJS NODEJS EXPRESSJS MONGODB**
 
-- 📫 How to reach me **moulish0809@gmail.com**
+- 📫 How to reach me **karthikeyanrym@gmail.com,[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-2ab1aa1b5/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lq0HAY3oHKBdDLvFOGSJZfpH57EzKdb8/view?usp=sharing](https://drive.google.com/file/d/1Lq0HAY3oHKBdDLvFOGSJZfpH57EzKdb8/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1MpfgXjVCkDxgyAMbHl22Kl1Om19vGc9j/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
