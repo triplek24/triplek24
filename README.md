@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB**
 
-- - 🔭 All about me is at [My Website](https://monisha.me)
+
 
 - 📫 How to reach me **karthikeyanrym@gmail.com,[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-2ab1aa1b5/)**
 
