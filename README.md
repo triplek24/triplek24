@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, ANGULAR, NODEJS, EXPRESSJS, MONGODB**
 
 
 
