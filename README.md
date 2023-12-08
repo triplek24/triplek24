@@ -1,18 +1,37 @@
-<h1 align="center">Hi , I'm Karthikeyan</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
-<img align="right" alt="Coadig" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<h1 align="center">👋 Hi, I'm Karthikeyan K</h1>
+<h3 align="center">Dedicated MERN Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triplek24&label=Profile%20views&color=0e75b6&style=flat" alt="Karthikeyan" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+🌱 I’m currently honing my skills in **MERN Stack Development**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, ANGULAR, NODEJS, EXPRESSJS, MONGODB**
+💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Angular, NodeJS, ExpressJS, MongoDB**
 
+📫 How to reach me: **karthikeyanrym@gmail.com | [LinkedIn](https://www.linkedin.com/in/karthikeyan-k-2ab1aa1b5/)**
 
+📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1MpfgXjVCkDxgyAMbHl22Kl1Om19vGc9j/view)**
 
-- 📫 How to reach me **karthikeyanrym@gmail.com,[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-2ab1aa1b5/)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/karthikeyan-k-2ab1aa1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/triple_k_karthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikeyan" height="30" width="40" /></a>
+</p>
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1MpfgXjVCkDxgyAMbHl22Kl1Om19vGc9j/view)**
+<h3 align="left">About Me:</h3>
+
+🚀 Hi, I'm Karthikeyan K, a dedicated MERN Developer with a strong foundation in Computer Science. With over 1 year of hands-on experience, I bring expertise in HTML5, CSS, Angular, React, NodeJs, and MongoDB.
+
+🌱 Passionate about leveraging technology to solve real-world challenges, my journey began as an Online Tutor. Fueled by a desire to delve into IT, I completed a MERN development course at Huvi, leading to a rewarding position at Pentabay Software.
+
+🛠️ In a key role for an internal project, I spearheaded both frontend and backend development for a Community Cloud Kitchen website. Additionally, contributing significantly to the PAXIQ project, my responsibilities span server log management, server handling, and implementing new features and UI changes in React.
+
+🚀 My core strengths lie in Frontend development, where I excel in both Angular and React. I've also had the opportunity to showcase my skills in creating REST APIs using Node.js, Stripe integration, and Firebase.
+
+🔍 Keywords: React Developer | Angular Developer | Web Developer | MERN | MEAN | Junior Software Developer | Node.js
+
+Let's connect and explore how my passion and skills can contribute to your projects! ✉️ kathikeyanrym@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
