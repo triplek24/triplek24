@@ -20,7 +20,7 @@
 
 <h3 align="left">About Me:</h3>
 
-🚀 Hi, I'm Karthikeyan K, a dedicated MERN Developer with a strong foundation in Computer Science. With over 1 year of hands-on experience, I bring expertise in HTML5, CSS, Angular, React, NodeJs, and MongoDB.
+🚀 Hi, I'm Karthikeyan K, a dedicated MERN Developer with a strong foundation in Computer Science. With over 2 year of hands-on experience, I bring expertise in HTML5, CSS, Angular, React, NodeJs, and MongoDB.
 
 🌱 Passionate about leveraging technology to solve real-world challenges, my journey began as an Online Tutor. Fueled by a desire to delve into IT, I completed a MERN development course at Huvi, leading to a rewarding position at Pentabay Software.
 
